@@ -1,0 +1,29 @@
+body{
+
+    background-color:black;
+    color: white;
+    margin: 50px;
+    
+}
+h1{
+    border-style:dotted;
+    border-color:white;
+    font-size:xx-large;
+    font-weight:bolder;
+    font-family:'Courier New', Courier, monospace;
+}
+h2{
+    border-style: double;
+    border-color: white;
+    text-decoration: underline;
+    font-weight:700;
+    font-size:x-large;
+}
+p{
+    padding-left: 50px;
+    font-size:larger;
+    text-align:center;
+}
+img{
+    float:right;
+}
